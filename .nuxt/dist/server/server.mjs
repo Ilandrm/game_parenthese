@@ -1,0 +1,1 @@
+export { default } from "file:///home/ilan/iddev-project/jeux_bienEtre_parenthese/app/node_modules/@nuxt/vite-builder/dist/vite-node-entry.mjs"
